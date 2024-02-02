@@ -1,3 +1,5 @@
+
+  
 # Oasis-infobyte-intership
 # Web Development and Designing Internship
 The web development internship offers practical work experience and an introduction to creating and improving web-based systems. This internship will involve challenging opportunities, real world projects. It’s a fantastic opportunity to gain hands-on experience in the web and/or app development field with an award-winning innovation team.
@@ -7,5 +9,18 @@ We at oasis infobyte believe in making our youth especially the students self-aw
 
 ## Project-1
 Landing Page
+## Live-Demo-
+[Landing Page](https://65bd3f9e48c6d42f7efacc70--amazing-babka-0c5358.netlify.app/)
+
+## Screenshot-
+![image](https://github.com/Prinshi30/Oasis-infobyte-intership/blob/f48b4122b78a3e32176bd1d9eb3d608881ad891b/landing%20page)
+
 ## Project-2
 Temperature Converter
+
+## Live-Demo-
+[Landing Page](https://65bd3d7867b2ae2f6d31d7a4--thunderous-meerkat-6f7dce.netlify.app/)
+
+## Screenshot-
+![image](https://github.com/Prinshi30/Oasis-infobyte-intership/blob/43fca47a603ec683daa0948114ce1fb216cee86d/Temperature%20Conversion)
+
